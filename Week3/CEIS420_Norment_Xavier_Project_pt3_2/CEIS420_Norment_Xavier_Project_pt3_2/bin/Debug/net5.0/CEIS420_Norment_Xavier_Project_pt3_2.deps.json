@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CEIS420_Norment_Xavier_Project_pt3_2/1.0.0": {
+        "runtime": {
+          "CEIS420_Norment_Xavier_Project_pt3_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CEIS420_Norment_Xavier_Project_pt3_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
