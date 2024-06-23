@@ -17,6 +17,7 @@ public class CEIS_420_Norment_Xavier_Project_pt1 {
         Car maverick = cf.getCar("ford", "Maverick", "pickup", "small", "hybrid available");
         Car bolt = cf.getCar("chevy", "Bolt", "hatchback", "subcompact", "full electric (EV)");
         Car versa = cf.getCar("nissan", "Versa", "sedan", "compact", "cheapest new car on the US open market");
+        Car titan = cf.getCar("nissan", "Tital", "pickup", "Full-Size", "decent pickup");
         System.out.println("Camry configuration: "+camry);
         camry.slogan();
         System.out.println("Maverick configuration: "+maverick);
@@ -25,5 +26,6 @@ public class CEIS_420_Norment_Xavier_Project_pt1 {
         bolt.slogan();
         System.out.println("Versa configuration: "+versa);
         versa.slogan();
+        System.out.println(titan);
     }
 }
